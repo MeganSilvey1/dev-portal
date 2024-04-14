@@ -1,12 +1,12 @@
 # Site settings
 title: Developer Portal
-email: {your email address}
+email: megan.e.silvey@gmail.com
 description: Documentation for Sports World Central's Fantasy Football API.
 
 baseurl: "/dev-portal" # the subpath of your site, e.g. /blog/
-url: https://{your GitHub ID}.github.io # the base hostname & protocol for your site
-git_address: https://github.com/{your GitHub ID}/dev-portal
-git_edit_address: https://github.com/{your GitHub ID}/dev-portal/blob/gh-pages
+url: https://MeganSilvey1.github.io # the base hostname & protocol for your site
+git_address: https://github.com/MeganSilvey1/dev-portal
+git_edit_address: https://github.com/MeganSilvey1/dev-portal/blob/gh-pages
 
 # Theme options from https://bootswatch.com/
 # comment-out to use default Bootstrap
